@@ -1,0 +1,19 @@
+[
+  {
+    "ListingID": "1",
+    "Title": "Saipran",
+    "Description": "Seleniumby pran",
+    "Category": "Business",
+    "SubCategory": "Business Tips",
+    "Tags": "testing",
+    "ServiceType": "Hourly basis service",
+    "LocationType": "On-site",
+    "StartDate": "11/11/2024",
+    "EndDate": "12/12/2024",
+    "SkillTrade": "Credit",
+    "SkillExchange": "Java",
+    "Amount": "10",
+    "ActiveStatus": "Active",
+    "PopUpMessage": "Service Listing Added Successfully"
+  }
+]
