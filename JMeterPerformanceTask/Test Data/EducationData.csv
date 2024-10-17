@@ -1,0 +1,501 @@
+country,instituteName,title,degree,yearOfGraduation ,,New country,new instituteName,new title,new degree,new yearofGraduation
+Albania,WSU1,B.Tech,ComputerScience1,1996,,Egypt,Macquarie1,B.Sc,Biotech1,2013
+Austria,WSU2,B.A,Mechanical1,1997,,Finland,Macquarie2,B.Tech,Chemical1,2014
+Australia,WSU3,BFA,Electrical1,1998,,India,Macquarie3,B.A,Metallurgy1,2015
+Aruba,WSU4,PHD,Information Technology1,1999,,Albania,Macquarie4,BFA,Biotech2,2016
+Belgium,WSU5,M.A,ComputerScience2,2000,,Austria,Macquarie5,PHD,Chemical2,2017
+Canada,WSU6,B.Sc,Mechanical2,2001,,Australia,Macquarie6,M.A,Metallurgy2,2018
+China,WSU7,B.Tech,Electrical2,2002,,Egypt,Macquarie7,B.Sc,Biotech3,2019
+Egypt,WSU8,B.A,Information Technology2,2003,,Finland,Macquarie8,B.Tech,Chemical3,2020
+Finland,WSU9,BFA,ComputerScience3,2004,,India,Macquarie9,B.A,Metallurgy3,2021
+India,WSU10,PHD,Mechanical3,2005,,Albania,Macquarie10,BFA,Biotech4,2022
+Albania,WSU11,M.A,Electrical3,2006,,Austria,Macquarie11,PHD,Chemical4,2023
+Austria,WSU12,B.Sc,Information Technology3,2007,,Australia,Macquarie12,M.A,Metallurgy4,2013
+Australia,WSU13,B.Tech,ComputerScience4,2008,,Egypt,Macquarie13,B.Sc,Biotech5,2014
+Aruba,WSU14,B.A,Mechanical4,2009,,Finland,Macquarie14,B.Tech,Chemical5,2015
+Belgium,WSU15,BFA,Electrical4,2010,,India,Macquarie15,B.A,Metallurgy5,2016
+Canada,WSU16,PHD,Information Technology4,2011,,Albania,Macquarie16,BFA,Biotech6,2017
+China,WSU17,M.A,ComputerScience5,2012,,Austria,Macquarie17,PHD,Chemical6,2018
+Egypt,WSU18,B.Sc,Mechanical5,2013,,Australia,Macquarie18,M.A,Metallurgy6,2019
+Finland,WSU19,B.Tech,Electrical5,2014,,Egypt,Macquarie19,B.Sc,Biotech7,2020
+India,WSU20,B.A,Information Technology5,2015,,Finland,Macquarie20,B.Tech,Chemical7,2021
+Albania,WSU21,BFA,ComputerScience6,2016,,Egypt,Macquarie21,B.A,Metallurgy7,2022
+Austria,WSU22,PHD,Mechanical6,2017,,Finland,Macquarie22,BFA,Biotech8,2023
+Australia,WSU23,M.A,Electrical6,2018,,India,Macquarie23,PHD,Chemical8,2013
+Aruba,WSU24,B.Sc,Information Technology6,2019,,Albania,Macquarie24,M.A,Metallurgy8,2014
+Belgium,WSU25,B.Tech,ComputerScience7,2020,,Austria,Macquarie25,B.Sc,Biotech9,2015
+Canada,WSU26,B.A,Mechanical7,2021,,Australia,Macquarie26,B.Tech,Chemical9,2016
+China,WSU27,BFA,Electrical7,2022,,Egypt,Macquarie27,B.A,Metallurgy9,2017
+Egypt,WSU28,PHD,Information Technology7,2023,,Finland,Macquarie28,BFA,Biotech10,2018
+Finland,WSU29,M.A,ComputerScience8,1996,,India,Macquarie29,PHD,Chemical10,2019
+India,WSU30,B.Sc,Mechanical8,1997,,Albania,Macquarie30,M.A,Metallurgy10,2020
+Albania,WSU31,B.Tech,Electrical8,1998,,Austria,Macquarie31,B.Sc,Biotech11,2021
+Austria,WSU32,B.A,Information Technology8,1999,,Australia,Macquarie32,B.Tech,Chemical11,2022
+Australia,WSU33,BFA,ComputerScience9,2000,,Egypt,Macquarie33,B.A,Metallurgy11,2023
+Aruba,WSU34,PHD,Mechanical9,2001,,Finland,Macquarie34,BFA,Biotech12,2013
+Belgium,WSU35,M.A,Electrical9,2002,,Egypt,Macquarie35,PHD,Chemical12,2014
+Canada,WSU36,B.Sc,Information Technology9,2003,,Finland,Macquarie36,M.A,Metallurgy12,2015
+Albania,WSU37,B.Tech,ComputerScience10,2004,,India,Macquarie37,B.Sc,Biotech13,2016
+Austria,WSU38,B.A,Mechanical10,2005,,Albania,Macquarie38,B.Tech,Chemical13,2017
+Australia,WSU39,BFA,Electrical10,2006,,Austria,Macquarie39,B.A,Metallurgy13,2018
+Aruba,WSU40,PHD,Information Technology10,2007,,Australia,Macquarie40,BFA,Biotech14,2019
+Belgium,WSU41,M.A,ComputerScience11,2008,,Egypt,Macquarie41,PHD,Chemical14,2020
+Canada,WSU42,B.Sc,Mechanical11,2009,,Finland,Macquarie42,M.A,Metallurgy14,2021
+China,WSU43,B.Tech,Electrical11,2010,,India,Macquarie43,B.Sc,Biotech15,2022
+Egypt,WSU44,B.A,Information Technology11,2011,,Albania,Macquarie44,B.Tech,Chemical15,2023
+Finland,WSU45,BFA,ComputerScience12,2012,,Austria,Macquarie45,B.A,Metallurgy15,2013
+India,WSU46,PHD,Mechanical12,2013,,Australia,Macquarie46,BFA,Biotech16,2014
+Albania,WSU47,M.A,Electrical12,2014,,Egypt,Macquarie47,PHD,Chemical16,2015
+Austria,WSU48,B.Sc,Information Technology12,2015,,Finland,Macquarie48,M.A,Metallurgy16,2016
+Australia,WSU49,B.Tech,ComputerScience13,2016,,Egypt,Macquarie49,B.Sc,Biotech17,2017
+Aruba,WSU50,B.A,Mechanical13,2017,,Finland,Macquarie50,B.Tech,Chemical17,2018
+Belgium,WSU51,BFA,Electrical13,2018,,India,Macquarie51,B.A,Metallurgy17,2019
+Canada,WSU52,PHD,Information Technology13,2019,,Albania,Macquarie52,BFA,Biotech18,2020
+China,WSU53,M.A,ComputerScience14,2020,,Austria,Macquarie53,PHD,Chemical18,2021
+Egypt,WSU54,B.Sc,Mechanical14,2021,,Australia,Macquarie54,M.A,Metallurgy18,2022
+Finland,WSU55,B.Tech,Electrical14,2022,,Egypt,Macquarie55,B.Sc,Biotech19,2023
+India,WSU56,B.A,Information Technology14,2023,,Finland,Macquarie56,B.Tech,Chemical19,2013
+Albania,WSU57,BFA,ComputerScience15,1996,,India,Macquarie57,B.A,Metallurgy19,2014
+Austria,WSU58,PHD,Mechanical15,1997,,Albania,Macquarie58,BFA,Biotech20,2015
+Australia,WSU59,M.A,Electrical15,1998,,Austria,Macquarie59,PHD,Chemical20,2016
+Aruba,WSU60,B.Sc,Information Technology15,1999,,Australia,Macquarie60,M.A,Metallurgy20,2017
+Belgium,WSU61,B.Tech,ComputerScience16,2000,,Egypt,Macquarie61,B.Sc,Biotech21,2018
+Canada,WSU62,B.A,Mechanical16,2001,,Finland,Macquarie62,B.Tech,Chemical21,2019
+China,WSU63,BFA,Electrical16,2002,,Egypt,Macquarie63,B.A,Metallurgy21,2020
+Egypt,WSU64,PHD,Information Technology16,2003,,Finland,Macquarie64,BFA,Biotech22,2021
+Finland,WSU65,M.A,ComputerScience17,2004,,India,Macquarie65,PHD,Chemical22,2022
+India,WSU66,B.Sc,Mechanical17,2005,,Albania,Macquarie66,M.A,Metallurgy22,2023
+Albania,WSU67,B.Tech,Electrical17,2006,,Austria,Macquarie67,B.Sc,Biotech23,2013
+Austria,WSU68,B.A,Information Technology17,2007,,Australia,Macquarie68,B.Tech,Chemical23,2014
+Australia,WSU69,BFA,ComputerScience18,2008,,Egypt,Macquarie69,B.A,Metallurgy23,2015
+Aruba,WSU70,PHD,Mechanical18,2009,,Finland,Macquarie70,BFA,Biotech24,2016
+Belgium,WSU71,M.A,Electrical18,2010,,India,Macquarie71,PHD,Chemical24,2017
+Canada,WSU72,B.Sc,Information Technology18,2011,,Albania,Macquarie72,M.A,Metallurgy24,2018
+Albania,WSU73,B.Tech,ComputerScience19,2012,,Austria,Macquarie73,B.Sc,Biotech25,2019
+Austria,WSU74,B.A,Mechanical19,2013,,Australia,Macquarie74,B.Tech,Chemical25,2020
+Australia,WSU75,BFA,Electrical19,2014,,Egypt,Macquarie75,B.A,Metallurgy25,2021
+Aruba,WSU76,PHD,Information Technology19,2015,,Finland,Macquarie76,BFA,Biotech26,2022
+Belgium,WSU77,M.A,ComputerScience20,2016,,Egypt,Macquarie77,PHD,Chemical26,2023
+Canada,WSU78,B.Sc,Mechanical20,2017,,Finland,Macquarie78,M.A,Metallurgy26,2013
+China,WSU79,B.Tech,Electrical20,2018,,India,Macquarie79,B.Sc,Biotech27,2014
+Egypt,WSU80,B.A,Information Technology20,2019,,Albania,Macquarie80,B.Tech,Chemical27,2015
+Finland,WSU81,BFA,ComputerScience21,2020,,Austria,Macquarie81,B.A,Metallurgy27,2016
+India,WSU82,PHD,Mechanical21,2021,,Australia,Macquarie82,BFA,Biotech28,2017
+Albania,WSU83,M.A,Electrical21,2022,,Egypt,Macquarie83,PHD,Chemical28,2018
+Austria,WSU84,B.Sc,Information Technology21,2023,,Finland,Macquarie84,M.A,Metallurgy28,2019
+Australia,WSU85,B.Tech,ComputerScience22,1996,,India,Macquarie85,B.Sc,Biotech29,2020
+Aruba,WSU86,B.A,Mechanical22,1997,,Albania,Macquarie86,B.Tech,Chemical29,2021
+Belgium,WSU87,BFA,Electrical22,1998,,Austria,Macquarie87,B.A,Metallurgy29,2022
+Canada,WSU88,PHD,Information Technology22,1999,,Australia,Macquarie88,BFA,Biotech30,2023
+China,WSU89,M.A,ComputerScience23,2000,,Egypt,Macquarie89,PHD,Chemical30,2013
+Egypt,WSU90,B.Sc,Mechanical23,2001,,Finland,Macquarie90,M.A,Metallurgy30,2014
+Finland,WSU91,B.Tech,Electrical23,2002,,Egypt,Macquarie91,B.Sc,Biotech31,2015
+India,WSU92,B.A,Information Technology23,2003,,Finland,Macquarie92,B.Tech,Chemical31,2016
+Albania,WSU93,BFA,ComputerScience24,2004,,India,Macquarie93,B.A,Metallurgy31,2017
+Austria,WSU94,PHD,Mechanical24,2005,,Albania,Macquarie94,BFA,Biotech32,2018
+Australia,WSU95,M.A,Electrical24,2006,,Austria,Macquarie95,PHD,Chemical32,2019
+Aruba,WSU96,B.Sc,Information Technology24,2007,,Australia,Macquarie96,M.A,Metallurgy32,2020
+Belgium,WSU97,B.Tech,ComputerScience25,2008,,Egypt,Macquarie97,B.Sc,Biotech33,2021
+Canada,WSU98,B.A,Mechanical25,2009,,Finland,Macquarie98,B.Tech,Chemical33,2022
+China,WSU99,BFA,Electrical25,2010,,India,Macquarie99,B.A,Metallurgy33,2023
+Egypt,WSU100,PHD,Information Technology25,2011,,Albania,Macquarie100,BFA,Biotech34,2013
+Finland,WSU101,M.A,ComputerScience26,2012,,Austria,Macquarie101,PHD,Chemical34,2014
+India,WSU102,B.Sc,Mechanical26,2013,,Australia,Macquarie102,M.A,Metallurgy34,2015
+Albania,WSU103,B.Tech,Electrical26,2014,,Egypt,Macquarie103,B.Sc,Biotech35,2016
+Austria,WSU104,B.A,Information Technology26,2015,,Finland,Macquarie104,B.Tech,Chemical35,2017
+Australia,WSU105,BFA,ComputerScience27,2016,,Egypt,Macquarie105,B.A,Metallurgy35,2018
+Aruba,WSU106,PHD,Mechanical27,2017,,Finland,Macquarie106,BFA,Biotech36,2019
+Belgium,WSU107,M.A,Electrical27,2018,,India,Macquarie107,PHD,Chemical36,2020
+Canada,WSU108,B.Sc,Information Technology27,2019,,Albania,Macquarie108,M.A,Metallurgy36,2021
+Albania,WSU109,B.Tech,ComputerScience28,2020,,Austria,Macquarie109,B.Sc,Biotech37,2022
+Austria,WSU110,B.A,Mechanical28,2021,,Australia,Macquarie110,B.Tech,Chemical37,2023
+Australia,WSU111,BFA,Electrical28,2022,,Egypt,Macquarie111,B.A,Metallurgy37,2013
+Aruba,WSU112,PHD,Information Technology28,2023,,Finland,Macquarie112,BFA,Biotech38,2014
+Belgium,WSU113,M.A,ComputerScience29,1996,,India,Macquarie113,PHD,Chemical38,2015
+Canada,WSU114,B.Sc,Mechanical29,1997,,Albania,Macquarie114,M.A,Metallurgy38,2016
+China,WSU115,B.Tech,Electrical29,1998,,Austria,Macquarie115,B.Sc,Biotech39,2017
+Egypt,WSU116,B.A,Information Technology29,1999,,Australia,Macquarie116,B.Tech,Chemical39,2018
+Finland,WSU117,BFA,ComputerScience30,2000,,Egypt,Macquarie117,B.A,Metallurgy39,2019
+India,WSU118,PHD,Mechanical30,2001,,Finland,Macquarie118,BFA,Biotech40,2020
+Albania,WSU119,M.A,Electrical30,2002,,Egypt,Macquarie119,PHD,Chemical40,2021
+Austria,WSU120,B.Sc,Information Technology30,2003,,Finland,Macquarie120,M.A,Metallurgy40,2022
+Australia,WSU121,B.Tech,ComputerScience31,2004,,India,Macquarie121,B.Sc,Biotech41,2023
+Aruba,WSU122,B.A,Mechanical31,2005,,Albania,Macquarie122,B.Tech,Chemical41,2013
+Belgium,WSU123,BFA,Electrical31,2006,,Austria,Macquarie123,B.A,Metallurgy41,2014
+Canada,WSU124,PHD,Information Technology31,2007,,Australia,Macquarie124,BFA,Biotech42,2015
+Albania,WSU125,B.Tech,ComputerScience1,1996,,Egypt,Macquarie125,B.A,Biotech1,2013
+Austria,WSU126,B.A,Mechanical1,1997,,Finland,Macquarie126,B.Sc,Chemical1,2014
+Australia,WSU127,BFA,Electrical1,1998,,India,Macquarie127,B.Tech,Metallurgy1,2015
+Aruba,WSU128,PHD,Information Technology1,1999,,Albania,Macquarie128,B.A,Biotech2,2016
+Belgium,WSU129,M.A,ComputerScience2,2000,,Austria,Macquarie129,BFA,Chemical2,2017
+Canada,WSU130,B.Sc,Mechanical2,2001,,Australia,Macquarie130,PHD,Metallurgy2,2018
+China,WSU131,B.Tech,Electrical2,2002,,Egypt,Macquarie131,M.A,Biotech3,2019
+Egypt,WSU132,B.A,Information Technology2,2003,,Finland,Macquarie132,B.Sc,Chemical3,2020
+Finland,WSU133,BFA,ComputerScience3,2004,,India,Macquarie133,B.Tech,Metallurgy3,2021
+India,WSU134,PHD,Mechanical3,2005,,Albania,Macquarie134,B.A,Biotech4,2022
+Albania,WSU135,M.A,Electrical3,2006,,Austria,Macquarie135,BFA,Chemical4,2023
+Austria,WSU136,B.Sc,Information Technology3,2007,,Australia,Macquarie136,PHD,Metallurgy4,2013
+Australia,WSU137,B.Tech,ComputerScience4,2008,,Egypt,Macquarie137,M.A,Biotech5,2014
+Aruba,WSU138,B.A,Mechanical4,2009,,Finland,Macquarie138,B.Sc,Chemical5,2015
+Belgium,WSU139,BFA,Electrical4,2010,,India,Macquarie139,B.Tech,Metallurgy5,2016
+Canada,WSU140,PHD,Information Technology4,2011,,Albania,Macquarie140,B.A,Biotech6,2017
+China,WSU141,M.A,ComputerScience5,2012,,Austria,Macquarie141,BFA,Chemical6,2018
+Egypt,WSU142,B.Sc,Mechanical5,2013,,Australia,Macquarie142,PHD,Metallurgy6,2019
+Finland,WSU143,B.Tech,Electrical5,2014,,Egypt,Macquarie143,M.A,Biotech7,2020
+India,WSU144,B.A,Information Technology5,2015,,Finland,Macquarie144,B.Sc,Chemical7,2021
+Albania,WSU145,BFA,ComputerScience6,2016,,Egypt,Macquarie145,B.Tech,Metallurgy7,2022
+Austria,WSU146,PHD,Mechanical6,2017,,Finland,Macquarie146,B.A,Biotech8,2023
+Australia,WSU147,M.A,Electrical6,2018,,India,Macquarie147,BFA,Chemical8,2013
+Aruba,WSU148,B.Sc,Information Technology6,2019,,Albania,Macquarie148,PHD,Metallurgy8,2014
+Belgium,WSU149,B.Tech,ComputerScience7,2020,,Austria,Macquarie149,M.A,Biotech9,2015
+Canada,WSU150,B.A,Mechanical7,2021,,Australia,Macquarie150,B.Sc,Chemical9,2016
+China,WSU151,BFA,Electrical7,2022,,Egypt,Macquarie151,B.Tech,Metallurgy9,2017
+Egypt,WSU152,PHD,Information Technology7,2023,,Finland,Macquarie152,B.A,Biotech10,2018
+Finland,WSU153,M.A,ComputerScience8,1996,,India,Macquarie153,BFA,Chemical10,2019
+India,WSU154,B.Sc,Mechanical8,1997,,Albania,Macquarie154,PHD,Metallurgy10,2020
+Albania,WSU155,B.Tech,Electrical8,1998,,Austria,Macquarie155,M.A,Biotech11,2021
+Austria,WSU156,B.A,Information Technology8,1999,,Australia,Macquarie156,B.Sc,Chemical11,2022
+Australia,WSU157,BFA,ComputerScience9,2000,,Egypt,Macquarie157,B.Tech,Metallurgy11,2023
+Aruba,WSU158,PHD,Mechanical9,2001,,Finland,Macquarie158,B.A,Biotech12,2013
+Belgium,WSU159,M.A,Electrical9,2002,,Egypt,Macquarie159,BFA,Chemical12,2014
+Canada,WSU160,B.Sc,Information Technology9,2003,,Finland,Macquarie160,PHD,Metallurgy12,2015
+Albania,WSU161,B.Tech,ComputerScience10,2004,,India,Macquarie161,M.A,Biotech13,2016
+Austria,WSU162,B.A,Mechanical10,2005,,Albania,Macquarie162,B.Sc,Chemical13,2017
+Australia,WSU163,BFA,Electrical10,2006,,Austria,Macquarie163,B.Tech,Metallurgy13,2018
+Aruba,WSU164,PHD,Information Technology10,2007,,Australia,Macquarie164,B.A,Biotech14,2019
+Belgium,WSU165,M.A,ComputerScience11,2008,,Egypt,Macquarie165,BFA,Chemical14,2020
+Canada,WSU166,B.Sc,Mechanical11,2009,,Finland,Macquarie166,PHD,Metallurgy14,2021
+China,WSU167,B.Tech,Electrical11,2010,,India,Macquarie167,M.A,Biotech15,2022
+Egypt,WSU168,B.A,Information Technology11,2011,,Albania,Macquarie168,B.Sc,Chemical15,2023
+Finland,WSU169,BFA,ComputerScience12,2012,,Austria,Macquarie169,B.Tech,Metallurgy15,2013
+India,WSU170,PHD,Mechanical12,2013,,Australia,Macquarie170,B.A,Biotech16,2014
+Albania,WSU171,M.A,Electrical12,2014,,Egypt,Macquarie171,BFA,Chemical16,2015
+Austria,WSU172,B.Sc,Information Technology12,2015,,Finland,Macquarie172,PHD,Metallurgy16,2016
+Australia,WSU173,B.Tech,ComputerScience13,2016,,Egypt,Macquarie173,M.A,Biotech17,2017
+Aruba,WSU174,B.A,Mechanical13,2017,,Finland,Macquarie174,B.Sc,Chemical17,2018
+Belgium,WSU175,BFA,Electrical13,2018,,India,Macquarie175,B.Tech,Metallurgy17,2019
+Canada,WSU176,PHD,Information Technology13,2019,,Albania,Macquarie176,B.A,Biotech18,2020
+China,WSU177,M.A,ComputerScience14,2020,,Austria,Macquarie177,BFA,Chemical18,2021
+Egypt,WSU178,B.Sc,Mechanical14,2021,,Australia,Macquarie178,PHD,Metallurgy18,2022
+Finland,WSU179,B.Tech,Electrical14,2022,,Egypt,Macquarie179,M.A,Biotech19,2023
+India,WSU180,B.A,Information Technology14,2023,,Finland,Macquarie180,B.Sc,Chemical19,2013
+Albania,WSU181,BFA,ComputerScience15,1996,,India,Macquarie181,B.Tech,Metallurgy19,2014
+Austria,WSU182,PHD,Mechanical15,1997,,Albania,Macquarie182,B.A,Biotech20,2015
+Australia,WSU183,M.A,Electrical15,1998,,Austria,Macquarie183,BFA,Chemical20,2016
+Aruba,WSU184,B.Sc,Information Technology15,1999,,Australia,Macquarie184,PHD,Metallurgy20,2017
+Belgium,WSU185,B.Tech,ComputerScience16,2000,,Egypt,Macquarie185,M.A,Biotech21,2018
+Canada,WSU186,B.A,Mechanical16,2001,,Finland,Macquarie186,B.Sc,Chemical21,2019
+China,WSU187,BFA,Electrical16,2002,,Egypt,Macquarie187,B.Tech,Metallurgy21,2020
+Egypt,WSU188,PHD,Information Technology16,2003,,Finland,Macquarie188,B.A,Biotech22,2021
+Finland,WSU189,M.A,ComputerScience17,2004,,India,Macquarie189,BFA,Chemical22,2022
+India,WSU190,B.Sc,Mechanical17,2005,,Albania,Macquarie190,PHD,Metallurgy22,2023
+Albania,WSU191,B.Tech,Electrical17,2006,,Austria,Macquarie191,M.A,Biotech23,2013
+Austria,WSU192,B.A,Information Technology17,2007,,Australia,Macquarie192,B.Sc,Chemical23,2014
+Australia,WSU193,BFA,ComputerScience18,2008,,Egypt,Macquarie193,B.Tech,Metallurgy23,2015
+Aruba,WSU194,PHD,Mechanical18,2009,,Finland,Macquarie194,B.A,Biotech24,2016
+Belgium,WSU195,M.A,Electrical18,2010,,India,Macquarie195,BFA,Chemical24,2017
+Canada,WSU196,B.Sc,Information Technology18,2011,,Albania,Macquarie196,PHD,Metallurgy24,2018
+Albania,WSU197,B.Tech,ComputerScience19,2012,,Austria,Macquarie197,M.A,Biotech25,2019
+Austria,WSU198,B.A,Mechanical19,2013,,Australia,Macquarie198,B.Sc,Chemical25,2020
+Australia,WSU199,BFA,Electrical19,2014,,Egypt,Macquarie199,B.Tech,Metallurgy25,2021
+Aruba,WSU200,PHD,Information Technology19,2015,,Finland,Macquarie200,B.A,Biotech26,2022
+Belgium,WSU201,M.A,ComputerScience20,2016,,Egypt,Macquarie201,BFA,Chemical26,2023
+Canada,WSU202,B.Sc,Mechanical20,2017,,Finland,Macquarie202,PHD,Metallurgy26,2013
+China,WSU203,B.Tech,Electrical20,2018,,India,Macquarie203,M.A,Biotech27,2014
+Egypt,WSU204,B.A,Information Technology20,2019,,Albania,Macquarie204,B.Sc,Chemical27,2015
+Finland,WSU205,BFA,ComputerScience21,2020,,Austria,Macquarie205,B.Tech,Metallurgy27,2016
+India,WSU206,PHD,Mechanical21,2021,,Australia,Macquarie206,B.A,Biotech28,2017
+Albania,WSU207,M.A,Electrical21,2022,,Egypt,Macquarie207,BFA,Chemical28,2018
+Austria,WSU208,B.Sc,Information Technology21,2023,,Finland,Macquarie208,PHD,Metallurgy28,2019
+Australia,WSU209,B.Tech,ComputerScience22,1996,,India,Macquarie209,M.A,Biotech29,2020
+Aruba,WSU210,B.A,Mechanical22,1997,,Albania,Macquarie210,B.Sc,Chemical29,2021
+Belgium,WSU211,BFA,Electrical22,1998,,Austria,Macquarie211,B.Tech,Metallurgy29,2022
+Canada,WSU212,PHD,Information Technology22,1999,,Australia,Macquarie212,B.A,Biotech30,2023
+China,WSU213,M.A,ComputerScience23,2000,,Egypt,Macquarie213,BFA,Chemical30,2013
+Egypt,WSU214,B.Sc,Mechanical23,2001,,Finland,Macquarie214,PHD,Metallurgy30,2014
+Finland,WSU215,B.Tech,Electrical23,2002,,Egypt,Macquarie215,M.A,Biotech31,2015
+India,WSU216,B.A,Information Technology23,2003,,Finland,Macquarie216,B.Sc,Chemical31,2016
+Albania,WSU217,BFA,ComputerScience24,2004,,India,Macquarie217,B.Tech,Metallurgy31,2017
+Austria,WSU218,PHD,Mechanical24,2005,,Albania,Macquarie218,B.A,Biotech32,2018
+Australia,WSU219,M.A,Electrical24,2006,,Austria,Macquarie219,BFA,Chemical32,2019
+Aruba,WSU220,B.Sc,Information Technology24,2007,,Australia,Macquarie220,PHD,Metallurgy32,2020
+Belgium,WSU221,B.Tech,ComputerScience25,2008,,Egypt,Macquarie221,M.A,Biotech33,2021
+Canada,WSU222,B.A,Mechanical25,2009,,Finland,Macquarie222,B.Sc,Chemical33,2022
+China,WSU223,BFA,Electrical25,2010,,India,Macquarie223,B.Tech,Metallurgy33,2023
+Egypt,WSU224,PHD,Information Technology25,2011,,Albania,Macquarie224,B.A,Biotech34,2013
+Finland,WSU225,M.A,ComputerScience26,2012,,Austria,Macquarie225,BFA,Chemical34,2014
+India,WSU226,B.Sc,Mechanical26,2013,,Australia,Macquarie226,PHD,Metallurgy34,2015
+Albania,WSU227,B.Tech,Electrical26,2014,,Egypt,Macquarie227,M.A,Biotech35,2016
+Austria,WSU228,B.A,Information Technology26,2015,,Finland,Macquarie228,B.Sc,Chemical35,2017
+Australia,WSU229,BFA,ComputerScience27,2016,,Egypt,Macquarie229,B.Tech,Metallurgy35,2018
+Aruba,WSU230,PHD,Mechanical27,2017,,Finland,Macquarie230,B.A,Biotech36,2019
+Belgium,WSU231,M.A,Electrical27,2018,,India,Macquarie231,BFA,Chemical36,2020
+Canada,WSU232,B.Sc,Information Technology27,2019,,Albania,Macquarie232,PHD,Metallurgy36,2021
+Albania,WSU233,B.Tech,ComputerScience28,2020,,Austria,Macquarie233,M.A,Biotech37,2022
+Austria,WSU234,B.A,Mechanical28,2021,,Australia,Macquarie234,B.Sc,Chemical37,2023
+Australia,WSU235,BFA,Electrical28,2022,,Egypt,Macquarie235,B.Tech,Metallurgy37,2013
+Aruba,WSU236,PHD,Information Technology28,2023,,Finland,Macquarie236,B.A,Biotech38,2014
+Belgium,WSU237,M.A,ComputerScience29,1996,,India,Macquarie237,BFA,Chemical38,2015
+Canada,WSU238,B.Sc,Mechanical29,1997,,Albania,Macquarie238,PHD,Metallurgy38,2016
+China,WSU239,B.Tech,Electrical29,1998,,Austria,Macquarie239,M.A,Biotech39,2017
+Egypt,WSU240,B.A,Information Technology29,1999,,Australia,Macquarie240,B.Sc,Chemical39,2018
+Finland,WSU241,BFA,ComputerScience30,2000,,Egypt,Macquarie241,B.Tech,Metallurgy39,2019
+India,WSU242,PHD,Mechanical30,2001,,Finland,Macquarie242,B.A,Biotech40,2020
+Albania,WSU243,M.A,Electrical30,2002,,Egypt,Macquarie243,BFA,Chemical40,2021
+Austria,WSU244,B.Sc,Information Technology30,2003,,Finland,Macquarie244,PHD,Metallurgy40,2022
+Australia,WSU245,B.Tech,ComputerScience31,2004,,India,Macquarie245,B.A,Biotech41,2023
+Aruba,WSU246,B.A,Mechanical31,2005,,Albania,Macquarie246,B.Sc,Chemical41,2013
+Belgium,WSU247,BFA,Electrical31,2006,,Austria,Macquarie247,B.Tech,Metallurgy41,2014
+Canada,WSU248,PHD,Information Technology31,2007,,Australia,Macquarie248,B.A,Biotech42,2015
+Albania,WSU249,B.Tech,ComputerScience1,1996,,Egypt,Macquarie249,BFA,Biotech1,2013
+Austria,WSU250,B.A,Mechanical1,1997,,Finland,Macquarie250,PHD,Chemical1,2014
+Australia,WSU251,BFA,Electrical1,1998,,India,Macquarie251,M.A,Metallurgy1,2015
+Aruba,WSU252,PHD,Information Technology1,1999,,Albania,Macquarie252,B.Sc,Biotech2,2016
+Belgium,WSU253,M.A,ComputerScience2,2000,,Austria,Macquarie253,B.Tech,Chemical2,2017
+Canada,WSU254,B.Sc,Mechanical2,2001,,Australia,Macquarie254,B.A,Metallurgy2,2018
+China,WSU255,B.Tech,Electrical2,2002,,Egypt,Macquarie255,BFA,Biotech3,2019
+Egypt,WSU256,B.A,Information Technology2,2003,,Finland,Macquarie256,PHD,Chemical3,2020
+Finland,WSU257,BFA,ComputerScience3,2004,,India,Macquarie257,M.A,Metallurgy3,2021
+India,WSU258,PHD,Mechanical3,2005,,Albania,Macquarie258,B.Sc,Biotech4,2022
+Albania,WSU259,M.A,Electrical3,2006,,Austria,Macquarie259,B.Tech,Chemical4,2023
+Austria,WSU260,B.Sc,Information Technology3,2007,,Australia,Macquarie260,B.A,Metallurgy4,2013
+Australia,WSU261,B.Tech,ComputerScience4,2008,,Egypt,Macquarie261,BFA,Biotech5,2014
+Aruba,WSU262,B.A,Mechanical4,2009,,Finland,Macquarie262,PHD,Chemical5,2015
+Belgium,WSU263,BFA,Electrical4,2010,,India,Macquarie263,M.A,Metallurgy5,2016
+Canada,WSU264,PHD,Information Technology4,2011,,Albania,Macquarie264,B.Sc,Biotech6,2017
+China,WSU265,M.A,ComputerScience5,2012,,Austria,Macquarie265,B.Tech,Chemical6,2018
+Egypt,WSU266,B.Sc,Mechanical5,2013,,Australia,Macquarie266,B.A,Metallurgy6,2019
+Finland,WSU267,B.Tech,Electrical5,2014,,Egypt,Macquarie267,BFA,Biotech7,2020
+India,WSU268,B.A,Information Technology5,2015,,Finland,Macquarie268,PHD,Chemical7,2021
+Albania,WSU269,BFA,ComputerScience6,2016,,Egypt,Macquarie269,M.A,Metallurgy7,2022
+Austria,WSU270,PHD,Mechanical6,2017,,Finland,Macquarie270,B.Sc,Biotech8,2023
+Australia,WSU271,M.A,Electrical6,2018,,India,Macquarie271,B.Tech,Chemical8,2013
+Aruba,WSU272,B.Sc,Information Technology6,2019,,Albania,Macquarie272,B.A,Metallurgy8,2014
+Belgium,WSU273,B.Tech,ComputerScience7,2020,,Austria,Macquarie273,BFA,Biotech9,2015
+Canada,WSU274,B.A,Mechanical7,2021,,Australia,Macquarie274,PHD,Chemical9,2016
+China,WSU275,BFA,Electrical7,2022,,Egypt,Macquarie275,M.A,Metallurgy9,2017
+Egypt,WSU276,PHD,Information Technology7,2023,,Finland,Macquarie276,B.Sc,Biotech10,2018
+Finland,WSU277,M.A,ComputerScience8,1996,,India,Macquarie277,B.Tech,Chemical10,2019
+India,WSU278,B.Sc,Mechanical8,1997,,Albania,Macquarie278,B.A,Metallurgy10,2020
+Albania,WSU279,B.Tech,Electrical8,1998,,Austria,Macquarie279,BFA,Biotech11,2021
+Austria,WSU280,B.A,Information Technology8,1999,,Australia,Macquarie280,PHD,Chemical11,2022
+Australia,WSU281,BFA,ComputerScience9,2000,,Egypt,Macquarie281,M.A,Metallurgy11,2023
+Aruba,WSU282,PHD,Mechanical9,2001,,Finland,Macquarie282,B.Sc,Biotech12,2013
+Belgium,WSU283,M.A,Electrical9,2002,,Egypt,Macquarie283,B.Tech,Chemical12,2014
+Canada,WSU284,B.Sc,Information Technology9,2003,,Finland,Macquarie284,B.A,Metallurgy12,2015
+Albania,WSU285,B.Tech,ComputerScience10,2004,,India,Macquarie285,BFA,Biotech13,2016
+Austria,WSU286,B.A,Mechanical10,2005,,Albania,Macquarie286,PHD,Chemical13,2017
+Australia,WSU287,BFA,Electrical10,2006,,Austria,Macquarie287,M.A,Metallurgy13,2018
+Aruba,WSU288,PHD,Information Technology10,2007,,Australia,Macquarie288,B.Sc,Biotech14,2019
+Belgium,WSU289,M.A,ComputerScience11,2008,,Egypt,Macquarie289,B.Tech,Chemical14,2020
+Canada,WSU290,B.Sc,Mechanical11,2009,,Finland,Macquarie290,B.A,Metallurgy14,2021
+China,WSU291,B.Tech,Electrical11,2010,,India,Macquarie291,BFA,Biotech15,2022
+Egypt,WSU292,B.A,Information Technology11,2011,,Albania,Macquarie292,PHD,Chemical15,2023
+Finland,WSU293,BFA,ComputerScience12,2012,,Austria,Macquarie293,M.A,Metallurgy15,2013
+India,WSU294,PHD,Mechanical12,2013,,Australia,Macquarie294,B.Sc,Biotech16,2014
+Albania,WSU295,M.A,Electrical12,2014,,Egypt,Macquarie295,B.Tech,Chemical16,2015
+Austria,WSU296,B.Sc,Information Technology12,2015,,Finland,Macquarie296,B.A,Metallurgy16,2016
+Australia,WSU297,B.Tech,ComputerScience13,2016,,Egypt,Macquarie297,BFA,Biotech17,2017
+Aruba,WSU298,B.A,Mechanical13,2017,,Finland,Macquarie298,PHD,Chemical17,2018
+Belgium,WSU299,BFA,Electrical13,2018,,India,Macquarie299,M.A,Metallurgy17,2019
+Canada,WSU300,PHD,Information Technology13,2019,,Albania,Macquarie300,B.Sc,Biotech18,2020
+China,WSU301,M.A,ComputerScience14,2020,,Austria,Macquarie301,B.Tech,Chemical18,2021
+Egypt,WSU302,B.Sc,Mechanical14,2021,,Australia,Macquarie302,B.A,Metallurgy18,2022
+Finland,WSU303,B.Tech,Electrical14,2022,,Egypt,Macquarie303,BFA,Biotech19,2023
+India,WSU304,B.A,Information Technology14,2023,,Finland,Macquarie304,PHD,Chemical19,2013
+Albania,WSU305,BFA,ComputerScience15,1996,,India,Macquarie305,M.A,Metallurgy19,2014
+Austria,WSU306,PHD,Mechanical15,1997,,Albania,Macquarie306,B.Sc,Biotech20,2015
+Australia,WSU307,M.A,Electrical15,1998,,Austria,Macquarie307,B.Tech,Chemical20,2016
+Aruba,WSU308,B.Sc,Information Technology15,1999,,Australia,Macquarie308,B.A,Metallurgy20,2017
+Belgium,WSU309,B.Tech,ComputerScience16,2000,,Egypt,Macquarie309,BFA,Biotech21,2018
+Canada,WSU310,B.A,Mechanical16,2001,,Finland,Macquarie310,PHD,Chemical21,2019
+China,WSU311,BFA,Electrical16,2002,,Egypt,Macquarie311,M.A,Metallurgy21,2020
+Egypt,WSU312,PHD,Information Technology16,2003,,Finland,Macquarie312,B.Sc,Biotech22,2021
+Finland,WSU313,M.A,ComputerScience17,2004,,India,Macquarie313,B.Tech,Chemical22,2022
+India,WSU314,B.Sc,Mechanical17,2005,,Albania,Macquarie314,B.A,Metallurgy22,2023
+Albania,WSU315,B.Tech,Electrical17,2006,,Austria,Macquarie315,BFA,Biotech23,2013
+Austria,WSU316,B.A,Information Technology17,2007,,Australia,Macquarie316,PHD,Chemical23,2014
+Australia,WSU317,BFA,ComputerScience18,2008,,Egypt,Macquarie317,M.A,Metallurgy23,2015
+Aruba,WSU318,PHD,Mechanical18,2009,,Finland,Macquarie318,B.Sc,Biotech24,2016
+Belgium,WSU319,M.A,Electrical18,2010,,India,Macquarie319,B.Tech,Chemical24,2017
+Canada,WSU320,B.Sc,Information Technology18,2011,,Albania,Macquarie320,B.A,Metallurgy24,2018
+Albania,WSU321,B.Tech,ComputerScience19,2012,,Austria,Macquarie321,BFA,Biotech25,2019
+Austria,WSU322,B.A,Mechanical19,2013,,Australia,Macquarie322,PHD,Chemical25,2020
+Australia,WSU323,BFA,Electrical19,2014,,Egypt,Macquarie323,M.A,Metallurgy25,2021
+Aruba,WSU324,PHD,Information Technology19,2015,,Finland,Macquarie324,B.Sc,Biotech26,2022
+Belgium,WSU325,M.A,ComputerScience20,2016,,Egypt,Macquarie325,B.Tech,Chemical26,2023
+Canada,WSU326,B.Sc,Mechanical20,2017,,Finland,Macquarie326,B.A,Metallurgy26,2013
+China,WSU327,B.Tech,Electrical20,2018,,India,Macquarie327,BFA,Biotech27,2014
+Egypt,WSU328,B.A,Information Technology20,2019,,Albania,Macquarie328,PHD,Chemical27,2015
+Finland,WSU329,BFA,ComputerScience21,2020,,Austria,Macquarie329,M.A,Metallurgy27,2016
+India,WSU330,PHD,Mechanical21,2021,,Australia,Macquarie330,B.Sc,Biotech28,2017
+Albania,WSU331,M.A,Electrical21,2022,,Egypt,Macquarie331,B.Tech,Chemical28,2018
+Austria,WSU332,B.Sc,Information Technology21,2023,,Finland,Macquarie332,B.A,Metallurgy28,2019
+Australia,WSU333,B.Tech,ComputerScience22,1996,,India,Macquarie333,BFA,Biotech29,2020
+Aruba,WSU334,B.A,Mechanical22,1997,,Albania,Macquarie334,PHD,Chemical29,2021
+Belgium,WSU335,BFA,Electrical22,1998,,Austria,Macquarie335,M.A,Metallurgy29,2022
+Canada,WSU336,PHD,Information Technology22,1999,,Australia,Macquarie336,B.Sc,Biotech30,2023
+China,WSU337,M.A,ComputerScience23,2000,,Egypt,Macquarie337,B.Tech,Chemical30,2013
+Egypt,WSU338,B.Sc,Mechanical23,2001,,Finland,Macquarie338,B.A,Metallurgy30,2014
+Finland,WSU339,B.Tech,Electrical23,2002,,Egypt,Macquarie339,BFA,Biotech31,2015
+India,WSU340,B.A,Information Technology23,2003,,Finland,Macquarie340,PHD,Chemical31,2016
+Albania,WSU341,BFA,ComputerScience24,2004,,India,Macquarie341,M.A,Metallurgy31,2017
+Austria,WSU342,PHD,Mechanical24,2005,,Albania,Macquarie342,B.Sc,Biotech32,2018
+Australia,WSU343,M.A,Electrical24,2006,,Austria,Macquarie343,B.Tech,Chemical32,2019
+Aruba,WSU344,B.Sc,Information Technology24,2007,,Australia,Macquarie344,B.A,Metallurgy32,2020
+Belgium,WSU345,B.Tech,ComputerScience25,2008,,Egypt,Macquarie345,BFA,Biotech33,2021
+Canada,WSU346,B.A,Mechanical25,2009,,Finland,Macquarie346,PHD,Chemical33,2022
+China,WSU347,BFA,Electrical25,2010,,India,Macquarie347,M.A,Metallurgy33,2023
+Egypt,WSU348,PHD,Information Technology25,2011,,Albania,Macquarie348,B.Sc,Biotech34,2013
+Finland,WSU349,M.A,ComputerScience26,2012,,Austria,Macquarie349,B.Tech,Chemical34,2014
+India,WSU350,B.Sc,Mechanical26,2013,,Australia,Macquarie350,B.A,Metallurgy34,2015
+Albania,WSU351,B.Tech,Electrical26,2014,,Egypt,Macquarie351,BFA,Biotech35,2016
+Austria,WSU352,B.A,Information Technology26,2015,,Finland,Macquarie352,PHD,Chemical35,2017
+Australia,WSU353,BFA,ComputerScience27,2016,,Egypt,Macquarie353,M.A,Metallurgy35,2018
+Aruba,WSU354,PHD,Mechanical27,2017,,Finland,Macquarie354,B.Sc,Biotech36,2019
+Belgium,WSU355,M.A,Electrical27,2018,,India,Macquarie355,B.Tech,Chemical36,2020
+Canada,WSU356,B.Sc,Information Technology27,2019,,Albania,Macquarie356,B.A,Metallurgy36,2021
+Albania,WSU357,B.Tech,ComputerScience28,2020,,Austria,Macquarie357,BFA,Biotech37,2022
+Austria,WSU358,B.A,Mechanical28,2021,,Australia,Macquarie358,PHD,Chemical37,2023
+Australia,WSU359,BFA,Electrical28,2022,,Egypt,Macquarie359,M.A,Metallurgy37,2013
+Aruba,WSU360,PHD,Information Technology28,2023,,Finland,Macquarie360,B.Sc,Biotech38,2014
+Belgium,WSU361,M.A,ComputerScience29,1996,,India,Macquarie361,B.Tech,Chemical38,2015
+Canada,WSU362,B.Sc,Mechanical29,1997,,Albania,Macquarie362,B.A,Metallurgy38,2016
+China,WSU363,B.Tech,Electrical29,1998,,Austria,Macquarie363,BFA,Biotech39,2017
+Egypt,WSU364,B.A,Information Technology29,1999,,Australia,Macquarie364,PHD,Chemical39,2018
+Finland,WSU365,BFA,ComputerScience30,2000,,Egypt,Macquarie365,B.A,Metallurgy39,2019
+India,WSU366,PHD,Mechanical30,2001,,Finland,Macquarie366,B.Sc,Biotech40,2020
+Albania,WSU367,M.A,Electrical30,2002,,Egypt,Macquarie367,B.Tech,Chemical40,2021
+Austria,WSU368,B.Sc,Information Technology30,2003,,Finland,Macquarie368,B.A,Metallurgy40,2022
+Australia,WSU369,B.Tech,ComputerScience31,2004,,India,Macquarie369,BFA,Biotech41,2023
+Aruba,WSU370,B.A,Mechanical31,2005,,Albania,Macquarie370,PHD,Chemical41,2013
+Belgium,WSU371,BFA,Electrical31,2006,,Austria,Macquarie371,M.A,Metallurgy41,2014
+Canada,WSU372,PHD,Information Technology31,2007,,Australia,Macquarie372,B.Sc,Biotech42,2015
+Albania,WSU373,B.Tech,ComputerScience1,1996,,Egypt,Macquarie373,B.Tech,Biotech1,2013
+Austria,WSU374,B.A,Mechanical1,1997,,Finland,Macquarie374,B.A,Chemical1,2014
+Australia,WSU375,BFA,Electrical1,1998,,India,Macquarie375,BFA,Metallurgy1,2015
+Aruba,WSU376,PHD,Information Technology1,1999,,Albania,Macquarie376,PHD,Biotech2,2016
+Belgium,WSU377,M.A,ComputerScience2,2000,,Austria,Macquarie377,M.A,Chemical2,2017
+Canada,WSU378,B.Sc,Mechanical2,2001,,Australia,Macquarie378,B.Sc,Metallurgy2,2018
+China,WSU379,B.Tech,Electrical2,2002,,Egypt,Macquarie379,B.Tech,Biotech3,2019
+Egypt,WSU380,B.A,Information Technology2,2003,,Finland,Macquarie380,B.A,Chemical3,2020
+Finland,WSU381,BFA,ComputerScience3,2004,,India,Macquarie381,BFA,Metallurgy3,2021
+India,WSU382,PHD,Mechanical3,2005,,Albania,Macquarie382,PHD,Biotech4,2022
+Albania,WSU383,M.A,Electrical3,2006,,Austria,Macquarie383,M.A,Chemical4,2023
+Austria,WSU384,B.Sc,Information Technology3,2007,,Australia,Macquarie384,B.Sc,Metallurgy4,2013
+Australia,WSU385,B.Tech,ComputerScience4,2008,,Egypt,Macquarie385,B.Tech,Biotech5,2014
+Aruba,WSU386,B.A,Mechanical4,2009,,Finland,Macquarie386,B.A,Chemical5,2015
+Belgium,WSU387,BFA,Electrical4,2010,,India,Macquarie387,BFA,Metallurgy5,2016
+Canada,WSU388,PHD,Information Technology4,2011,,Albania,Macquarie388,PHD,Biotech6,2017
+China,WSU389,M.A,ComputerScience5,2012,,Austria,Macquarie389,M.A,Chemical6,2018
+Egypt,WSU390,B.Sc,Mechanical5,2013,,Australia,Macquarie390,B.Sc,Metallurgy6,2019
+Finland,WSU391,B.Tech,Electrical5,2014,,Egypt,Macquarie391,B.Tech,Biotech7,2020
+India,WSU392,B.A,Information Technology5,2015,,Finland,Macquarie392,B.A,Chemical7,2021
+Albania,WSU393,BFA,ComputerScience6,2016,,Egypt,Macquarie393,BFA,Metallurgy7,2022
+Austria,WSU394,PHD,Mechanical6,2017,,Finland,Macquarie394,PHD,Biotech8,2023
+Australia,WSU395,M.A,Electrical6,2018,,India,Macquarie395,M.A,Chemical8,2013
+Aruba,WSU396,B.Sc,Information Technology6,2019,,Albania,Macquarie396,B.Sc,Metallurgy8,2014
+Belgium,WSU397,B.Tech,ComputerScience7,2020,,Austria,Macquarie397,B.Tech,Biotech9,2015
+Canada,WSU398,B.A,Mechanical7,2021,,Australia,Macquarie398,B.A,Chemical9,2016
+China,WSU399,BFA,Electrical7,2022,,Egypt,Macquarie399,BFA,Metallurgy9,2017
+Egypt,WSU400,PHD,Information Technology7,2023,,Finland,Macquarie400,PHD,Biotech10,2018
+Finland,WSU401,M.A,ComputerScience8,1996,,India,Macquarie401,M.A,Chemical10,2019
+India,WSU402,B.Sc,Mechanical8,1997,,Albania,Macquarie402,B.Sc,Metallurgy10,2020
+Albania,WSU403,B.Tech,Electrical8,1998,,Austria,Macquarie403,B.Tech,Biotech11,2021
+Austria,WSU404,B.A,Information Technology8,1999,,Australia,Macquarie404,B.A,Chemical11,2022
+Australia,WSU405,BFA,ComputerScience9,2000,,Egypt,Macquarie405,BFA,Metallurgy11,2023
+Aruba,WSU406,PHD,Mechanical9,2001,,Finland,Macquarie406,PHD,Biotech12,2013
+Belgium,WSU407,M.A,Electrical9,2002,,Egypt,Macquarie407,M.A,Chemical12,2014
+Canada,WSU408,B.Sc,Information Technology9,2003,,Finland,Macquarie408,B.Sc,Metallurgy12,2015
+Albania,WSU409,B.Tech,ComputerScience10,2004,,India,Macquarie409,B.Tech,Biotech13,2016
+Austria,WSU410,B.A,Mechanical10,2005,,Albania,Macquarie410,B.A,Chemical13,2017
+Australia,WSU411,BFA,Electrical10,2006,,Austria,Macquarie411,BFA,Metallurgy13,2018
+Aruba,WSU412,PHD,Information Technology10,2007,,Australia,Macquarie412,PHD,Biotech14,2019
+Belgium,WSU413,M.A,ComputerScience11,2008,,Egypt,Macquarie413,M.A,Chemical14,2020
+Canada,WSU414,B.Sc,Mechanical11,2009,,Finland,Macquarie414,B.Sc,Metallurgy14,2021
+China,WSU415,B.Tech,Electrical11,2010,,India,Macquarie415,B.Tech,Biotech15,2022
+Egypt,WSU416,B.A,Information Technology11,2011,,Albania,Macquarie416,B.A,Chemical15,2023
+Finland,WSU417,BFA,ComputerScience12,2012,,Austria,Macquarie417,BFA,Metallurgy15,2013
+India,WSU418,PHD,Mechanical12,2013,,Australia,Macquarie418,PHD,Biotech16,2014
+Albania,WSU419,M.A,Electrical12,2014,,Egypt,Macquarie419,M.A,Chemical16,2015
+Austria,WSU420,B.Sc,Information Technology12,2015,,Finland,Macquarie420,B.Sc,Metallurgy16,2016
+Australia,WSU421,B.Tech,ComputerScience13,2016,,Egypt,Macquarie421,B.Tech,Biotech17,2017
+Aruba,WSU422,B.A,Mechanical13,2017,,Finland,Macquarie422,B.A,Chemical17,2018
+Belgium,WSU423,BFA,Electrical13,2018,,India,Macquarie423,BFA,Metallurgy17,2019
+Canada,WSU424,PHD,Information Technology13,2019,,Albania,Macquarie424,PHD,Biotech18,2020
+China,WSU425,M.A,ComputerScience14,2020,,Austria,Macquarie425,M.A,Chemical18,2021
+Egypt,WSU426,B.Sc,Mechanical14,2021,,Australia,Macquarie426,B.Sc,Metallurgy18,2022
+Finland,WSU427,B.Tech,Electrical14,2022,,Egypt,Macquarie427,B.Tech,Biotech19,2023
+India,WSU428,B.A,Information Technology14,2023,,Finland,Macquarie428,B.A,Chemical19,2013
+Albania,WSU429,BFA,ComputerScience15,1996,,India,Macquarie429,BFA,Metallurgy19,2014
+Austria,WSU430,PHD,Mechanical15,1997,,Albania,Macquarie430,PHD,Biotech20,2015
+Australia,WSU431,M.A,Electrical15,1998,,Austria,Macquarie431,M.A,Chemical20,2016
+Aruba,WSU432,B.Sc,Information Technology15,1999,,Australia,Macquarie432,B.Sc,Metallurgy20,2017
+Belgium,WSU433,B.Tech,ComputerScience16,2000,,Egypt,Macquarie433,B.Tech,Biotech21,2018
+Canada,WSU434,B.A,Mechanical16,2001,,Finland,Macquarie434,B.A,Chemical21,2019
+China,WSU435,BFA,Electrical16,2002,,Egypt,Macquarie435,BFA,Metallurgy21,2020
+Egypt,WSU436,PHD,Information Technology16,2003,,Finland,Macquarie436,PHD,Biotech22,2021
+Finland,WSU437,M.A,ComputerScience17,2004,,India,Macquarie437,M.A,Chemical22,2022
+India,WSU438,B.Sc,Mechanical17,2005,,Albania,Macquarie438,B.Sc,Metallurgy22,2023
+Albania,WSU439,B.Tech,Electrical17,2006,,Austria,Macquarie439,B.Tech,Biotech23,2013
+Austria,WSU440,B.A,Information Technology17,2007,,Australia,Macquarie440,B.A,Chemical23,2014
+Australia,WSU441,BFA,ComputerScience18,2008,,Egypt,Macquarie441,BFA,Metallurgy23,2015
+Aruba,WSU442,PHD,Mechanical18,2009,,Finland,Macquarie442,PHD,Biotech24,2016
+Belgium,WSU443,M.A,Electrical18,2010,,India,Macquarie443,M.A,Chemical24,2017
+Canada,WSU444,B.Sc,Information Technology18,2011,,Albania,Macquarie444,B.Sc,Metallurgy24,2018
+Albania,WSU445,B.Tech,ComputerScience19,2012,,Austria,Macquarie445,B.Tech,Biotech25,2019
+Austria,WSU446,B.A,Mechanical19,2013,,Australia,Macquarie446,B.A,Chemical25,2020
+Australia,WSU447,BFA,Electrical19,2014,,Egypt,Macquarie447,BFA,Metallurgy25,2021
+Aruba,WSU448,PHD,Information Technology19,2015,,Finland,Macquarie448,PHD,Biotech26,2022
+Belgium,WSU449,M.A,ComputerScience20,2016,,Egypt,Macquarie449,M.A,Chemical26,2023
+Canada,WSU450,B.Sc,Mechanical20,2017,,Finland,Macquarie450,B.Sc,Metallurgy26,2013
+China,WSU451,B.Tech,Electrical20,2018,,India,Macquarie451,B.Tech,Biotech27,2014
+Egypt,WSU452,B.A,Information Technology20,2019,,Albania,Macquarie452,B.A,Chemical27,2015
+Finland,WSU453,BFA,ComputerScience21,2020,,Austria,Macquarie453,BFA,Metallurgy27,2016
+India,WSU454,PHD,Mechanical21,2021,,Australia,Macquarie454,PHD,Biotech28,2017
+Albania,WSU455,M.A,Electrical21,2022,,Egypt,Macquarie455,M.A,Chemical28,2018
+Austria,WSU456,B.Sc,Information Technology21,2023,,Finland,Macquarie456,B.Sc,Metallurgy28,2019
+Australia,WSU457,B.Tech,ComputerScience22,1996,,India,Macquarie457,B.Tech,Biotech29,2020
+Aruba,WSU458,B.A,Mechanical22,1997,,Albania,Macquarie458,B.A,Chemical29,2021
+Belgium,WSU459,BFA,Electrical22,1998,,Austria,Macquarie459,BFA,Metallurgy29,2022
+Canada,WSU460,PHD,Information Technology22,1999,,Australia,Macquarie460,PHD,Biotech30,2023
+China,WSU461,M.A,ComputerScience23,2000,,Egypt,Macquarie461,M.A,Chemical30,2013
+Egypt,WSU462,B.Sc,Mechanical23,2001,,Finland,Macquarie462,B.Sc,Metallurgy30,2014
+Finland,WSU463,B.Tech,Electrical23,2002,,Egypt,Macquarie463,B.Tech,Biotech31,2015
+India,WSU464,B.A,Information Technology23,2003,,Finland,Macquarie464,B.A,Chemical31,2016
+Albania,WSU465,BFA,ComputerScience24,2004,,India,Macquarie465,BFA,Metallurgy31,2017
+Austria,WSU466,PHD,Mechanical24,2005,,Albania,Macquarie466,PHD,Biotech32,2018
+Australia,WSU467,M.A,Electrical24,2006,,Austria,Macquarie467,M.A,Chemical32,2019
+Aruba,WSU468,B.Sc,Information Technology24,2007,,Australia,Macquarie468,B.Sc,Metallurgy32,2020
+Belgium,WSU469,B.Tech,ComputerScience25,2008,,Egypt,Macquarie469,B.Tech,Biotech33,2021
+Canada,WSU470,B.A,Mechanical25,2009,,Finland,Macquarie470,B.A,Chemical33,2022
+China,WSU471,BFA,Electrical25,2010,,India,Macquarie471,BFA,Metallurgy33,2023
+Egypt,WSU472,PHD,Information Technology25,2011,,Albania,Macquarie472,PHD,Biotech34,2013
+Finland,WSU473,M.A,ComputerScience26,2012,,Austria,Macquarie473,M.A,Chemical34,2014
+India,WSU474,B.Sc,Mechanical26,2013,,Australia,Macquarie474,B.Sc,Metallurgy34,2015
+Albania,WSU475,B.Tech,Electrical26,2014,,Egypt,Macquarie475,B.Tech,Biotech35,2016
+Austria,WSU476,B.A,Information Technology26,2015,,Finland,Macquarie476,B.A,Chemical35,2017
+Australia,WSU477,BFA,ComputerScience27,2016,,Egypt,Macquarie477,BFA,Metallurgy35,2018
+Aruba,WSU478,PHD,Mechanical27,2017,,Finland,Macquarie478,PHD,Biotech36,2019
+Belgium,WSU479,M.A,Electrical27,2018,,India,Macquarie479,M.A,Chemical36,2020
+Canada,WSU480,B.Sc,Information Technology27,2019,,Albania,Macquarie480,B.Sc,Metallurgy36,2021
+Albania,WSU481,B.Tech,ComputerScience28,2020,,Austria,Macquarie481,B.Tech,Biotech37,2022
+Austria,WSU482,B.A,Mechanical28,2021,,Australia,Macquarie482,B.A,Chemical37,2023
+Australia,WSU483,BFA,Electrical28,2022,,Egypt,Macquarie483,BFA,Metallurgy37,2013
+Aruba,WSU484,PHD,Information Technology28,2023,,Finland,Macquarie484,PHD,Biotech38,2014
+Belgium,WSU485,M.A,ComputerScience29,1996,,India,Macquarie485,B.A,Chemical38,2015
+Canada,WSU486,B.Sc,Mechanical29,1997,,Albania,Macquarie486,B.Sc,Metallurgy38,2016
+China,WSU487,B.Tech,Electrical29,1998,,Austria,Macquarie487,B.Tech,Biotech39,2017
+Egypt,WSU488,B.A,Information Technology29,1999,,Australia,Macquarie488,B.A,Chemical39,2018
+Finland,WSU489,BFA,ComputerScience30,2000,,Egypt,Macquarie489,BFA,Metallurgy39,2019
+India,WSU490,PHD,Mechanical30,2001,,Finland,Macquarie490,PHD,Biotech40,2020
+Albania,WSU491,M.A,Electrical30,2002,,Egypt,Macquarie491,M.A,Chemical40,2021
+Austria,WSU492,B.Sc,Information Technology30,2003,,Finland,Macquarie492,B.Sc,Metallurgy40,2022
+Australia,WSU493,B.Tech,ComputerScience31,2004,,India,Macquarie493,B.Tech,Biotech41,2023
+Aruba,WSU494,B.A,Mechanical31,2005,,Albania,Macquarie494,B.A,Chemical41,2013
+Belgium,WSU495,BFA,Electrical31,2006,,Austria,Macquarie495,BFA,Metallurgy41,2014
+Canada,WSU496,PHD,Information Technology32,2007,,Australia,Macquarie496,PHD,Biotech42,2015
+India,WSU497,B.Tech,ComputerScience32,2000,,Egypt,Macquarie497,M.A,Chemical43,2011
+Canada,WSU498,B.A,Mechanical32,2001,,Finland,Macquarie498,B.Sc,Metallurgy43,2012
+Australia,WSU499,BFA,Electrical32,2002,,India,Macquarie499,B.Tech,Biotech43,2013
+Finland,WSU500,PHD,Information Technology33,2003,,Albania,Macquarie500,B.A,Chemical44,2014
